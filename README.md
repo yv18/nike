@@ -27,7 +27,7 @@ Front-end: Java
 Back-end: Firebase
 
 
-## Screenshot
+## Screenshots
 User Landing Page:
 ![image](https://github.com/yv18/nike/assets/147085086/b4857fc2-081a-4e51-be2a-056befa6bd35)
 
